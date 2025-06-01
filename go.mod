@@ -1,4 +1,4 @@
-module github.com/LizaMeytner/Form/modules/common
+module github.com/LizaMeytner/Form
 
 go 1.21
 
